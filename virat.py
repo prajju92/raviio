@@ -1,1 +1,1 @@
-print ("hello duck bro")
+print ("hello banana")
